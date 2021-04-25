@@ -8,4 +8,6 @@ draw letters using turtlesim
 > 
 > rosrun turtle_draw turtles.py
 
-Type what you want turtles to write in terminal
+Type what you want turtles to write in terminal(Only support specified letters)
+
+
